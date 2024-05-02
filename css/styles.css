@@ -259,7 +259,7 @@ img {
   align-items: center;
 }
 .skills__bar {
-  position: fixed;
+  position: absolute;
   left: 0;
   bottom: 0;
   background-color: var(--first-color);
